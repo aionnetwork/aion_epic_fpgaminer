@@ -1,4 +1,4 @@
-# EpicAionFPGAMiner
+# aion_epic_fpgaminer
 
 Algorithm: equihash (210,9)
 
